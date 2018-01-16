@@ -1,15 +1,15 @@
-# flask-webapp
+# Flask Webapp
 
-$ python --version
+# python --version
 Python 2.7.5
 
-$ pip --version
+# pip --version
 pip 9.0.1 from /usr/lib/python2.7/site-packages/pip-9.0.1-py2.7.egg (python 2.7)
 
-$ mongo --version
+# mongo --version
 MongoDB shell version: 3.2.10
 
-pip install pymongo
+# pip install pymongo
 
-pip install flask
+# pip install flask
 
